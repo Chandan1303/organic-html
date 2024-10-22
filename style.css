@@ -1,0 +1,17 @@
+.first img{
+    float: left;
+    border: 3px solid black;
+    height: 125px;
+}
+.first p{
+    padding-left: 330px;
+    padding-top: 15px;
+    font-size: large;
+}
+h3{
+    clear:left;
+   
+}
+.second .img1 img{
+  float: left;
+}
